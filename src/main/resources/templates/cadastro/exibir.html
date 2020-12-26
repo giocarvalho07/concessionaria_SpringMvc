@@ -44,7 +44,7 @@
 				</thead>
 				<tbody>
 					<tr th:each="carros: ${carro}">
-						<td> <span th:text="${carros.cod}"></span> </td>
+						<td> <span th:text="${carros.cod}" class="hidden"></span> </td>
 						<td> <span th:text="${carros.modelo}"></span> </td>
 						<td> <span th:text="${carros.ano}"></span> </td>
 						<td> <span th:text="${carros.cor}"></span> </td>
