@@ -3,8 +3,8 @@ Projeto realizado com o framework SpringMVC e integração com banco de dados My
 
 
 <h2> Engenharia do projeto </h2>
+![arquitetura do projeto - sistema escolar](https://user-images.githubusercontent.com/52415453/104819189-a8369a00-580a-11eb-8a80-294334b7b2fb.png)
 
-![arquitetura do projeto - sistema escolar](https://user-images.githubusercontent.com/52415453/104818915-327dfe80-5809-11eb-816e-78bddadc867c.png)
 
 <hr>
 
